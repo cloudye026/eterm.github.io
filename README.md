@@ -1,6 +1,6 @@
 1. AVH/TAOPEK/15APR
 
-```Plain Text
+``` Text
 AVH/城市对/日期
 ```
 
@@ -9,7 +9,7 @@ AVH/城市对/日期
 
 2. SD 预定座位
 
-  ```Plain Text
+``` Text
 格式 
 >SD 1Y1
 
@@ -19,7 +19,7 @@ SD 序号仓位人数
 
 3. NFD 最低票价查询
 
-  ```Plain Text
+``` Text
 NFD 城市对/航司
 
 PAT:A
@@ -30,14 +30,14 @@ PAT:A
 
 4. NM 姓名录入
 
-  ```Plain Text
+``` Text
 NM 1张三1李四
 ```
 
 
 5. SSR FOID MU HK/NI证件号码/P1 录入身份证信息
 
-  ```Plain Text
+``` Text
 SSR FOID 航司 HK(订座状态已确认)/NI身份证号码/P1 关联PNR中第一位旅客
 
 SSR FOID MU HK/NI110100199902029101/P1
@@ -48,7 +48,7 @@ SSR FOID MU HK/NI110100199902029101/P3
 
 6. OSI 航司 CTCT联系电话
 
-  ```Plain Text
+``` Text
 格式
 CTCT联系电话(协调人)
 >OSI ZH CTCT13611110000
